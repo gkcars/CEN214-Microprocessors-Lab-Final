@@ -22,10 +22,13 @@ Use git commands to upload your work to your own repository. Do not use file upl
 # CEN214 - Microprocessors Lab. Final Exam solutions
 ## 1. Step
 Insert your screenshot here
+https://github.com/gkcars/microlab/assets/87232407/f203b521-c58a-4b4c-ab5c-7e400a974858
 
 ## 2. Step
 Insert your screenshot here
+https://github.com/gkcars/microlab/assets/87232407/02c439d1-cef0-4d9b-af82-216c06c7fa8a
 
 ## 3. Step
 Insert your screenshot here
+https://github.com/gkcars/microlab/assets/87232407/8ff6708a-f784-4307-aadb-10a7580d993c
 
